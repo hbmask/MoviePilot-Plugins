@@ -662,5 +662,18 @@
       "v0.2.0": "优化配置页UI布局，修复回复消息携带多余类型前缀的问题",
       "v0.1.0": "初始版本"
     }
+  },
+  "FeiniuTargetedRefresh": {
+    "name": "飞牛定向刷新",
+    "description": "入库后自动刷新飞牛影视对应的媒体库（手动映射二级分类到站点）。",
+    "labels": "媒体库",
+    "version": "1.0.0",
+    "icon": "refresh2.png",
+    "author": "hbmask",
+    "level": 1,
+    "release": true,
+    "history": {
+      "v1.0.0": "首次发布：复用媒体服务器连接，按二级分类定向刷新飞牛对应站点"
+    }
   }
 }
