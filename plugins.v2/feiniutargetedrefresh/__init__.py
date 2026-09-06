@@ -204,7 +204,7 @@ class FeiniuTargetedRefresh(_PluginBase):
                                             "model": "mappings",
                                             "label": "站点映射（每行一条）",
                                             "rows": 8,
-                                            "placeholder": "电影=华语电影,外语电影,动画电影\n动漫=国漫,日番\n国产=国产\n岛国=岛国",
+                                            "placeholder": "电影=动画电影,华语电影,外语电影\n动漫=国漫,日漫\n国产=国产",
                                             "hint": "格式：飞牛站点名或guid = MoviePilot二级分类1,分类2,...（逗号分隔，可用全角逗号）。# 开头为注释。站点名与 guid 见插件详情页。",
                                         },
                                     }
