@@ -671,7 +671,6 @@
     "icon": "refresh2.png",
     "author": "hbmask",
     "level": 1,
-    "release": true,
     "history": {
       "v1.0.0": "首次发布：复用媒体服务器连接，按二级分类定向刷新飞牛对应站点"
     }
